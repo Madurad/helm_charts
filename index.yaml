@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  starter:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2023-10-02T16:01:35.049346-04:00"
+    description: A Helm chart for Kubernetes
+    digest: 1a17d56a2d5bfce015842f5116955990ea8f451e65fe33f60a1a1da88edff044
+    name: starter
+    type: application
+    urls:
+    - https://madurad.github.io/helm-chart/starter-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-10-02T16:01:35.04822-04:00"
