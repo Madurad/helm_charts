@@ -1,14 +1,14 @@
 apiVersion: v1
 entries:
-  starter:
+  awx-operator:
   - apiVersion: v2
-    appVersion: 0.1.0
-    created: "2023-10-02T16:04:15.087626-04:00"
-    description: A Helm chart for Kubernetes
-    digest: 1a17d56a2d5bfce015842f5116955990ea8f451e65fe33f60a1a1da88edff044
-    name: starter
+    appVersion: 2.6.0
+    created: "2023-10-03T09:30:12.605824-04:00"
+    description: A Helm chart for the AWX Operator
+    digest: 49ce17988160aaa4c9c9683753a8d7db8d6f215e14128abca8a1bbdb84194bf2
+    name: awx-operator
     type: application
     urls:
-    - https://madurad.github.io/helm_charts/starter-0.1.0.tgz
-    version: 0.1.0
-generated: "2023-10-02T16:04:15.087055-04:00"
+    - https://madurad.github.io/helm_charts/awx-operator-2.6.0.tgz
+    version: 2.6.0
+generated: "2023-10-03T09:30:12.605094-04:00"
